@@ -1,0 +1,12 @@
+{
+  "name": "longlink-relay",
+  "version": "1.0.0",
+  "description": "Relay server for LongLink app",
+  "main": "relay-server.js",
+  "scripts": {
+    "start": "node relay-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
